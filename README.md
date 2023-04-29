@@ -1,0 +1,1 @@
+A small application that implements double login verification for logged-in users. It uses PHPMailer to verify the identity by using a secret code to mail. It also uses htmlpurifier to filter the data entered.
